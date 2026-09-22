@@ -13,6 +13,6 @@ I'm passionate about **Web Development**, **Software Development**, **Cybersecur
 
 ## GitHub Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Android-Stuff&bg=1b2434&text=ffffff&title_color=ee5d6e&icon_color=ee5d6e&border_color=ee5d6e&show_ring=false&size=compact&hide=repos%2Ccommits%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cgrade) 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=GylaxDev&bg=1b2434&text=ffffff&title_color=ee5d6e&icon_color=ee5d6e&border_color=ee5d6e&show_ring=false&size=compact&hide=repos%2Ccommits%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cgrade) 
 
-![Top Languages](https://ghstats.dev/api/langs?username=Android-Stuff&bg=1b2434&text=ffffff&title_color=ee5d6e&border_color=ee5d6e)
+![Top Languages](https://ghstats.dev/api/langs?username=GylaxDev&bg=1b2434&text=ffffff&title_color=ee5d6e&border_color=ee5d6e)
