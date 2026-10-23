@@ -1,0 +1,13 @@
+[
+  {
+    "type": "normal",
+    "fileName": "gothic-city.svg",
+    "backgroundColor": "#07080d",
+    "foregroundColor": "#e8eefc",
+    "strongColor": "#ff4d63",
+    "weakColor": "#6b7390",
+    "radarColor": "#ff4d63",
+    "growingAnimation": true,
+    "contribColors": ["#1a1226", "#7a1624", "#b01d38", "#e0364a", "#ff8fa0"]
+  }
+]

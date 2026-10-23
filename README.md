@@ -15,7 +15,7 @@
 
 <img src="./assets/divider.svg?v=3" alt="" width="100%" />
 
-## ✠ About Me
+## ✠ ABOUT ME
 
 I'm a developer who loves building **clean, functional applications**. I work mainly with C# and the web stack, and I'm currently exploring:
 
@@ -25,7 +25,7 @@ I'm a developer who loves building **clean, functional applications**. I work ma
 
 <img src="./assets/divider.svg?v=3" alt="" width="100%" />
 
-## ✠ Featured Projects
+## ✠ FEATURED PROJECTS
 
 <table>
   <tr>
@@ -74,7 +74,7 @@ I'm a developer who loves building **clean, functional applications**. I work ma
 
 <img src="./assets/divider.svg?v=3" alt="" width="100%" />
 
-## ✠ Tech Stack
+## ✠ TECH STACK
 
 **Languages**
 
@@ -97,7 +97,19 @@ I'm a developer who loves building **clean, functional applications**. I work ma
 
 <img src="./assets/divider.svg?v=3" alt="" width="100%" />
 
-## ✠ GitHub Stats
+## ✠ CONTRIBUTION CITY — 3D
+
+<div align="center">
+
+<img src="./profile-3d-contrib/gothic-city.svg?v=1" alt="3D contribution graph" width="100%" />
+
+<sub><i>Every day a tower in the dark — the taller the spire, the busier the night.</i></sub>
+
+</div>
+
+<img src="./assets/divider.svg?v=3" alt="" width="100%" />
+
+## ✠ GITHUB STATS
 
 <div align="center">
 
@@ -108,7 +120,7 @@ I'm a developer who loves building **clean, functional applications**. I work ma
 
 <img src="./assets/divider.svg?v=3" alt="" width="100%" />
 
-## ✠ Connect
+## ✠ CONNECT
 
 <div align="center">
 
