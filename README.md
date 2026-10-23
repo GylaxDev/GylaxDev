@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Vincent%20Alexander&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Clean%20%26%20Functional%20Applications&descSize=16&descAlignY=58" alt="header" />
+<img src="./assets/header.svg" alt="Vincent Alexander" width="100%" />
 
 <a href="https://github.com/GylaxDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=520&lines=Building+clean%2C+functional+apps;C%23+%7C+JavaScript+%7C+WinUI+3;Exploring+Android+%26+Cybersecurity;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=D94452&center=true&vCenter=true&width=520&lines=Building+clean%2C+functional+apps;C%23+%7C+JavaScript+%7C+WinUI+3;Exploring+Android+%26+Cybersecurity;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=GylaxDev&label=Profile%20Views&color=2C5364&style=flat-square)
-![Followers](https://img.shields.io/github/followers/GylaxDev?label=Followers&style=flat-square&color=203A43)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/GylaxDev&query=public_repos&label=Public%20Repos&style=flat-square&color=0F2027)
+![Profile Views](https://komarev.com/ghpvc/?username=GylaxDev&label=Profile%20Views&color=D94452&style=flat-square&labelColor=14131F)
+![Followers](https://img.shields.io/github/followers/GylaxDev?label=Followers&style=flat-square&color=B9CDF5&labelColor=14131F)
 
 </div>
 
@@ -102,8 +101,8 @@ I'm a developer who loves building **clean, functional applications**. I work ma
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GylaxDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GylaxDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GylaxDev&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=D94452&icon_color=B9CDF5&text_color=E8EEFC&ring_color=D94452" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GylaxDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=D94452&text_color=E8EEFC" alt="Top languages" />
 
 </div>
 
@@ -114,13 +113,11 @@ I'm a developer who loves building **clean, functional applications**. I work ma
 <div align="center">
 
 <a href="https://github.com/GylaxDev">
-  <img src="https://img.shields.io/badge/GitHub-@GylaxDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-@GylaxDev-14131F?style=for-the-badge&logo=github&logoColor=white&labelColor=D94452" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-*Always learning, always building.* ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="footer" />
+<img src="./assets/footer.svg" alt="Always learning, always building" width="100%" />
 
 </div>
