@@ -30,7 +30,7 @@ I'm a developer who loves building **clean, functional applications**. I work ma
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🧹 <a href="https://github.com/GylaxDev/FlusherWeb">Flusher</a></h3>
+      <h3>🧹 <a href="https://github.com/GylaxDev/Flusher">Flusher</a></h3>
       <p>A modern Windows system cleaning and optimization tool built with <b>WinUI 3</b>.</p>
       <sub>
         ✦ Junk cleaning<br/>
