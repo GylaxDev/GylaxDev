@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Vincent Alexander" width="100%" />
+<img src="./assets/header.svg?v=2" alt="Vincent Alexander" width="100%" />
 
 <a href="https://github.com/GylaxDev">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&pause=1200&color=B3202F&center=true&vCenter=true&width=560&lines=Building+clean%2C+functional+apps;C%23+%E2%9C%A6+JavaScript+%E2%9C%A6+WinUI+3;Exploring+Android+%26+Cybersecurity;Always+learning%2C+always+building" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg?v=2" alt="" width="100%" />
 
 ## ✠ About Me
 
@@ -23,14 +23,14 @@ I'm a developer who loves building **clean, functional applications**. I work ma
 - 🤖 **Android development**
 - 🔐 **Cybersecurity**
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg?v=2" alt="" width="100%" />
 
 ## ✠ Featured Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🧹 <a href="https://github.com/GylaxDev/Flusher">Flusher</a></h3>
+      <h3>🧹 <a href="https://github.com/GylaxDev/FlusherWeb">Flusher</a></h3>
       <p>A modern Windows system cleaning and optimization tool built with <b>WinUI 3</b>.</p>
       <sub>
         ✦ Junk cleaning<br/>
@@ -72,7 +72,7 @@ I'm a developer who loves building **clean, functional applications**. I work ma
   </tr>
 </table>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg?v=2" alt="" width="100%" />
 
 ## ✠ Tech Stack
 
@@ -95,7 +95,7 @@ I'm a developer who loves building **clean, functional applications**. I work ma
 ![VS Code](https://img.shields.io/badge/VS%20Code-0b0d14?style=for-the-badge&logo=visualstudiocode&logoColor=dbe5ff&labelColor=7a1624)
 ![Vercel](https://img.shields.io/badge/Vercel-0b0d14?style=for-the-badge&logo=vercel&logoColor=dbe5ff&labelColor=7a1624)
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg?v=2" alt="" width="100%" />
 
 ## ✠ GitHub Stats
 
@@ -106,7 +106,7 @@ I'm a developer who loves building **clean, functional applications**. I work ma
 
 </div>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.svg?v=2" alt="" width="100%" />
 
 ## ✠ Connect
 
@@ -118,6 +118,6 @@ I'm a developer who loves building **clean, functional applications**. I work ma
 
 <br/><br/>
 
-<img src="./assets/footer.svg" alt="Always learning, always building" width="100%" />
+<img src="./assets/footer.svg?v=2" alt="Always learning, always building" width="100%" />
 
 </div>
