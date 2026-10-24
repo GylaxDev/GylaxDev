@@ -17,10 +17,10 @@
 
 ## ✠ ABOUT ME
 
-I'm a developer who loves building **clean, functional applications**. I work mainly with C# and the web stack, and I'm currently exploring:
+I like building **applications**. I work mainly with C# and the web stack, and I'm currently exploring:
 
 - 🪟 **WinUI 3** — modern Windows desktop apps
-- 🤖 **Android development**
+- 🤖 **.NET MAUI**
 - 🔐 **Cybersecurity**
 
 <img src="./assets/divider.svg?v=3" alt="" width="100%" />
